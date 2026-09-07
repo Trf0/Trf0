@@ -25,7 +25,7 @@ Mais informações sobre minha formação e experiência:
 
 <br>
 
-- 🤖 [**LLM + Classificação de Dados (Open-Source)**](https://github.com/Trf0/gamification-analytics-llm/tree/main)
+- 🤖 [**LLM + Classificação de Dados (Open-Source)**](https://github.com/Trf0/llm-edu-classifier)
 
   Projeto acadêmico desenvolvido em grupo utilizando Python,
   LLMs locais e integração com Google Sheets e Power BI.
